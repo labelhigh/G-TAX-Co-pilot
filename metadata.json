@@ -1,0 +1,5 @@
+{
+  "name": "G-TAX Co-pilot",
+  "description": "An AI-powered co-pilot for tax auditing that is context-aware, proactive, and automates processes. It provides an AI risk-scored dashboard, intelligent document processing, a dynamic regulation sandbox, and one-click report generation to assist tax officers.",
+  "requestFramePermissions": []
+}
