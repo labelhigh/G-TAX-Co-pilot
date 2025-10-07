@@ -1,10 +1,6 @@
-
 // @ts-nocheck
 // This is a mock service that simulates Gemini API calls.
 // In a real application, this would use `@google/genai`.
-import { GoogleGenAI, Type } from "@google/genai";
-
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
 const MOCK_LATENCY = 1500;
 
